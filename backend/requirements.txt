@@ -1,0 +1,14 @@
+django
+djangorestframework
+django-cors-headers
+Pillow
+langchain
+langchain-community
+langchain-google-genai
+faiss-cpu
+pypdf
+python-dotenv
+gunicorn
+psycopg2-binary
+dj-database-url
+whitenoise

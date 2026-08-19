@@ -1,0 +1,603 @@
+disease,symptoms,treatment
+Common Cold,Runny nose, sore throat, cough, congestion,Rest, hydration, over-the-counter cold medications.
+Flu (Influenza),Fever, chills, muscle aches, cough, congestion, runny nose, headaches, fatigue,Antiviral drugs, rest, fluids.
+Diabetes Type 2,Increased thirst, frequent urination, hunger, fatigue, blurred vision,Healthy diet, regular exercise, insulin therapy, blood sugar monitoring.
+Hypertension,Headaches, shortness of breath, nosebleeds,Healthy diet with less salt, regular exercise, medication to lower blood pressure.
+Migraine,Severe throbbing pain or pulsing sensation, usually on one side of the head,Pain relievers, triptans, anti-nausea medications, resting in a dark room.
+Chickenpox,Itchy rash with fluid-filled blisters, fever, fatigue,Calamine lotion, oatmeal baths, antiviral medication for severe cases.
+COVID-19,Fever, cough, tiredness, loss of taste or smell,Vaccination, supportive care, antiviral medications for high-risk patients.
+Malaria,Fever, chills, headache, nausea, vomiting, muscle pain,Antimalarial medications.
+Dengue,High fever, severe headache, pain behind the eyes, joint and muscle pain, rash, supportive care, fluid replacement, pain relievers (avoid aspirin).
+Typhoid,Prolonged fever, fatigue, headache, nausea, abdominal pain,Antibiotics, fluids, rest.
+Pneumonia,Cough with phlegm, fever, chills, difficulty breathing,Antibiotics (for bacterial), antivirals (for viral), rest, fluids.
+Arthritis,Joint pain, stiffness, swelling, red skin around the joint,Pain relievers, physical therapy, steroids, surgery in severe cases.
+Asthma,Shortness of breath, chest tightness, wheezing, coughing,Inhalers (bronchodilators, steroids), avoiding triggers.
+Anemia,Fatigue, weakness, pale or yellowish skin, irregular heartbeats,Iron supplements, vitamin B12, dietary changes.
+Gastritis,Gnawing or burning ache or pain (indigestion) in your upper abdomen,Antacids, H2 blockers, proton pump inhibitors.
+Conjunctivitis (Pink Eye),Redness, itchiness, tearing, discharge,Artificial tears, antibiotic eye drops, warm compresses.
+Food Poisoning,Nausea, vomiting, watery diarrhea, abdominal pain, fever,Fluids, rest, antibiotics (if bacterial).
+Tuberculosis,Coughing for three or more weeks, coughing up blood, chest pain,Antibiotics for a long course (6-9 months).
+Hepatitis B,Yellowing of eyes/skin, fatigue, dark urine, abdominal pain,nausea,Antiviral medications, interferon injections, liver transplant in severe cases.
+Depression,Persistent sad, anxious, or "empty" mood, feelings of hopelessness,Antidepressants, psychotherapy, lifestyle changes.
+Anxiety Disorders,Feeling nervous, restless or tense, sense of impending danger, panic,Psychotherapy, medications (anti-anxiety, antidepressants).
+Insomnia,Difficulty falling asleep, waking up often during the night,Sleep hygiene, cognitive behavioral therapy, sleeping pills.
+Eczema,Dry, itchy skin, red to brownish-gray patches,Moisturizers, corticosteroid creams, avoiding triggers.
+Acne,Whiteheads, blackheads, papules, pustules, nodules, cysts,Topical creams (benzoyl peroxide, retinoids), antibiotics, oral contraceptives.
+Hair Loss (Alopecia),Gradual thinning on top of head, circular or patchy bald spots,Minoxidil, finasteride, hair transplant.
+Fungal Infection (Ringworm),Itchy, scaly, ring-shaped rash,Antifungal creams, lotions, or powders.
+Kidney Stones,Severe pain in the side and back, below the ribs,Drinking water, pain relievers, medical therapy, surgery.
+Urinary Tract Infection (UTI),Strong, persistent urge to urinate, burning sensation when urinating,Antibiotics, drinking plenty of water.
+appendicitis,Sudden pain that begins on the right side of the lower abdomen,Surgery to remove the appendix (appendectomy).
+Cataracts,Clouded, blurred or dim vision,Surgery to replace the lens.
+Glaucoma,Patchy blind spots in your side (peripheral) or central vision,Eye drops, pills, laser surgery, traditional surgery.
+Osteoporosis,Back pain, loss of height over time, stooped posture,Bisphosphonates, hormone-related therapy, bone-building medications.
+Alzheimer's Disease,Memory loss, confusion, difficulty thinking and reasoning,Medications to manage symptoms, supportive care.
+Parkinson's Disease,Tremor, slowed movement (bradykinesia), rigid muscles,Medications (Levodopa), surgery (Deep Brain Stimulation).
+Stroke,Sudden numbness or weakness in the face, arm, or leg, especially on one side,Emergency medical treatment (clot-busting drugs), rehabilitation.
+Heart Attack,Chest pain, pain spreading to the arm, neck, or jaw, shortness of breath,Emergency medical treatment (medications, surgery, stents).
+Cholesterol High,No symptoms usually (silent killer),Healthy diet, regular exercise, statins.
+Obesity,Excessive body fat that increases the risk of other diseases,Dietary changes, exercise, weight-loss surgery, behavior therapy.
+Vitamin D Deficiency,Fatigue, bone pain, muscle weakness, mood changes,Vitamin D supplements, sun exposure, dietary changes.
+Dehydration,Thirst, dry mouth, tiredness, dark yellow urine,Drinking fluids, oral rehydration solutions.
+Sunburn,Red, painful skin that feels hot to the touch,Cool baths, moisturizers (aloe vera), over-the-counter pain relievers.
+Heat Stroke,High body temperature, altered mental state, nausea, flushed skin,Emergency medical cooling, fluids.
+Rabies,Fever, headache, excess salivation, muscle spasms, paralysis, confusion,Vaccination (post-exposure prophylaxis), supportive care.
+Tetanus,Jaw cramping, muscle spasms, trouble swallowing,Vaccination, antibiotics, tetanus immune globulin.
+Cholera,Severe watery diarrhea, vomiting, leg cramps,Rehydration therapy, antibiotics, zinc supplements.
+Measles,High fever, cough, runny nose, red watery eyes, rash,Supportive care (vitamin A, fever reducers).
+Mumps,Swollen salivary glands, fever, headache, muscle aches,Supportive care (pain relievers, ice packs, fluids).
+Rubella,Mild fever, headache, rash, swollen lymph nodes,Supportive care.
+Pertussis (Whooping Cough),Severe coughing spells, "whoop" sound (in children),Antibiotics.
+Polio,Fever, fatigue, headache, vomiting, stiffness in the neck, pain in the limbs,Supportive care, physical therapy.
+Diphtheria,Sore throat, fever, swollen lymph nodes, weakness, thick gray coating in throat,Antitoxin, antibiotics.
+Celiac Disease,Diarrhea, fatigue, weight loss, bloating, gas,Strict gluten-free diet.
+Lactose Intolerance,Gas, bloating, diarrhea after eating dairy products,Avoiding lactose-containing foods, lactase supplements.
+Gout,Severe pain, redness and swelling in joints (often the big toe),NSAIDs, colchicine, corticosteroids, diet changes.
+Psoriasis,Red patches of skin covered with thick, silvery scales,Topical treatments, light therapy, systemic medications.
+Rosacea,Facial redness, swollen red bumps, eye problems,Avoid triggers, sun protection, topical medications, antibiotics.
+Hemorrhoids,Itching, irritation, pain, swelling around the anus, bleeding,High-fiber diet, tropical treatments, sitz baths.
+Constipation,Passing fewer than three stools a week, lumpy or hard stools,High-fiber diet, hydration, exercise, laxatives.
+Diarrhea,Loose, watery stools, abdominal cramps, fever,Fluids, anti-diarrheal medications (if appropriate), antibiotics (if bacterial).
+Vomiting,Forceful expulsion of stomach contents,Fluids, bland diet, anti-nausea medications.
+Fatigue,Feeling overtired, with low energy and a strong desire to sleep,Treating underlying cause, sleep hygiene, healthy diet, exercise.
+Fever,Temporary increase in body temperature,Rest, fluids, fever reducers (acetaminophen, ibuprofen).
+Sore Throat,Pain or irritation in the throat that can worsen when you swallow,Saltwater gargle, lozenges, pain relievers, antibiotics (if bacterial).
+Cough,Sudden expulsion of air from the lungs,Honey, fluids, cough medicines, treating underlying cause.
+Headache,Pain in any region of the head,Pain relievers, rest, hydration, stress management.
+Back Pain,Muscle ache, shooting or stabbing pain,Rest, heat/ice, pain relievers, physical therapy.
+Stomach Ache,Pain in the abdomen,Antacids, heating pad, avoiding heavy meals.
+Toothache,Pain in or around a tooth,Dental checkup, pain relievers, saltwater rinse.
+Earache,Sharp, dull, or burning pain in ear,Warm compress, pain relievers, ear drops (if prescribed).
+Rash,Change in the texture or color of skin,Moisturizers, hydrocortisone cream, antihistamines.
+Itching,Uncomfortable sensation on the skin,Moisturizers, antihistamines, oatmeal baths.
+Blister,Fluid-filled bubble on the skin,Keep clean, bandage, avoid popping.
+Burn,Tissue damage from heat, sun, electricity,Cool water, aloe vera, antibiotic ointment, bandage.
+Cut/Scrape,Break in the skin,Clean with water, antibiotic ointment, bandage.
+Bruise,Discolored skin caused by injury,Ice, rest, elevation.
+Sprain,Stretching or tearing of ligaments,R.I.C.E. (Rest, Ice, Compression, Elevation).
+Strain,Stretching or tearing of muscle or tendon,R.I.C.E., pain relievers.
+Fracture,Broken bone,Immobilization (cast, splint), surgery.
+Concussion,Traumatic brain injury,Rest (physical and cognitive), monitoring.
+Insect Bite/Sting,Pain, redness, swelling, itching,Ice, antihistamines, pain relievers.
+Snake Bite,Puncture wounds, swelling, pain,Emergency medical attention.
+Dog Bite,Puncture wounds, lacerations,Emergency medical attention, antibiotics, rabies shot (if needed).
+Allergic Reaction,Sneezing, itching, hives, swelling, wheezing,Antihistamines, epinephrine (for severe reactions).
+Anaphylaxis,Severe, life-threatening allergic reaction,Epinephrine injection, emergency medical attention.
+Panic Attack,Sudden episode of intense fear,Deep breathing, grounding techniques, medication.
+Seizure,Uncontrolled electrical disturbance in the brain,Safety measures, medication.
+Fainting,Sudden loss of consciousness,Lie down, elevate legs.
+Choking,Object blocking the throat,Heimlich maneuver.
+Drowning,Respiratory impairment from submersion in liquid,CPR, emergency medical attention.
+Electric Shock,Injury from electric current,Turn off power, emergency medical attention.
+Poisoning,Ingesting harmful substance,Call poison control, emergency medical attention.
+Hypothermia,Dangerously low body temperature,Rewarm gradually, warm fluids (if conscious).
+Frostbite,Freezing of skin and underlying tissues,Rewarm gradually, avoid rubbing.
+Heat Exhaustion,Heavy sweating, rapid pulse, faintness,Cool down, fluids.
+Nosebleed,Bleeding from the nose,Lean forward, pinch nose.
+Hiccups,Involuntary spasms of the diaphragm,Holding breath, drinking water.
+Heartburn,Burning pain in the chest,Antacids, avoiding trigger foods.
+Indigestion,Discomfort in upper abdomen,Eating slowly, avoiding heavy meals.
+Flatulence,Passing gas,Dietary changes.
+Bad Breath,Unpleasant odor from mouth,Oral hygiene, liquids, treating underlying cause.
+Body Odor,Unpleasant smell from body,Hygiene, antiperspirants, clean clothes.
+Dandruff,Flaking of scalp skin,Dandruff shampoo.
+Dry Skin,Rough, flaky, or scaly skin,Moisturizers, gentle soaps.
+Oily Skin,Excess sebum production,Gentle cleansers, oil-free products.
+Wrinkles,Lines and creases on skin,Sun protection, moisturizers, retinoids.
+Dark Circles,Dark discoloration under eyes,Sleep, hydration, cold compresses.
+Puffy Eyes,Swelling around eyes,Cold compresses, sleep, limiting salt.
+Brittle Nails,Nails that crack or split easily,Moisturizers, gloves for chores, biotin.
+Split Ends,Fraying of hair shaft,Trimming, conditioners.
+Greying Hair,Loss of pigment in hair,Dyeing (optional), acceptance.
+Baldness,Hair loss on scalp,Medications, hair transplant, wigs.
+Unwanted Hair,Hair growth in undesirable areas,Shaving, waxing, laser hair removal.
+Ingrown Hair,Hair that curls back and grows into skin,Exfoliating, warm compresses.
+Warts,Small, grainy skin growths,Salicylic acid, freezing, minor surgery.
+Moles,Dark spots on skin,Monitoring for changes, removal (if necessary).
+Skin Tags,Small, soft, skin-colored growths,Removal by doctor.
+Calluses/Corns,Thick, hardened layers of skin,Soaking, pumice stone, moisturizing.
+Athlete's Foot,Fungal infection between toes,Antifungal creams, keeping feet dry.
+Nail Fungus,Fungal infection of nail,Antifungal medications (oral or topical).
+Bunions,Bony bump at base of big toe,Comfortable shoes, pads, surgery.
+Heel Pain,Pain in the heel of the foot,Rest, ice, stretching, proper shoes.
+Plantar Fasciitis,Inflammation of tissue on bottom of foot,Stretching, orthotics, rest.
+Flat Feet,Arches of feet touch the floor when standing,Orthotics, supportive shoes.
+High Arches,Arches are raised more than normal,Supportive shoes, cushioning.
+Knock Knees,Knees touch when standing with feet apart,Exercises, braces, surgery (severe cases).
+Bow Legs,Legs curve outward at the knees,Observation, braces, surgery (severe cases).
+Scoliosis,Sideways curvature of the spine,Observation, bracing, surgery.
+Kyphosis,Exaggerated rounding of the back,Physical therapy, bracing, surgery.
+Lordosis,Inward curve of the spine,Physical therapy, weight loss.
+Poor Posture,Slouching or slumping,Awareness, exercises, ergonomic adjustments.
+Back Stiffness,Reduced flexibility in back,Stretching, heat, movement.
+Neck Pain,Pain in the neck,Rest, heat/ice, stretching.
+Shoulder Pain,Pain in the shoulder joint,Rest, ice, PT.
+Elbow Pain,Pain in the elbow,Rest, ice, bracing.
+Wrist Pain,Pain in the wrist,Rest, splinting, ergonomic changes.
+Hand Pain,Pain in the hand/fingers,Rest, heat/ice.
+Hip Pain,Pain in the hip joint,Rest, heat/ice, PT.
+Knee Pain,Pain in the knee,Rest, ice, bracing, PT.
+Ankle Pain,Pain in the ankle,Rest, ice, support.
+Foot Pain,Pain in the foot,Rest, ice, proper shoes.
+Muscle Cramps,Sudden, involuntary muscle contractions,Stretching, hydration, magnesium.
+Muscle Weakness,Lack of strenght,Exercise, treating underlying cause.
+Tremors,Involuntary shaking,Medications, treating underlying cause.
+Numbness/Tingling,Loss of sensation or "pins and needles",Treating underlying nerve issue.
+Dizziness,Feeling lightheaded or unsteady,Sit/lie down, hydration.
+Vertigo,Sensation of spinning,Medications, maneuvers.
+Balance Problems,Difficulty maintaining stability,PT, treating underlying cause.
+Hearing Loss,Reduced ability to hear,Hearing aids, treating underlying cause.
+Tinnitus,Ringing in the ears,Sound therapy, treating underlying cause.
+Vision Problems,Blurry vision, double vision, etc.,Glasses, contacts, surgery.
+Dry Eyes,Insufficient tear production,Artificial tears.
+Red Eyes,Bloodshot appearance,Drops, treating underlying cause.
+Eye Pain,Pain in the eye,Medical evaluation.
+Mouth Sores,Ulcers or lesions in mouth,Topical treatments, avoiding irritants.
+Bleeding Gums,Blood when brushing/flossing,Better oral hygiene, dental scaling.
+Sensitive Teeth,Pain with hot/cold foods,Desensitizing toothpaste.
+Dry Mouth,Lack of saliva,Fluids, sugar-free gum.
+loss of appetite,Reduced desire to eat,Small frequent meals, treating underlying cause.
+Cravings,Intense desire for specific foods,Balance diet.
+Weight Gain,Increase in body weight,Diet, exercise.
+Weight Loss,Decrease in body weight,Diet, medical evaluation (if unexplained).
+Slow Healing,Wounds take long to heal,Nutrition, wound care, treating underlying cause (e.g., diabetes).
+Easy Bruising,Bruising with minimal trauma,Medical eval (check platelets/clotting).
+Swollen Lymph Nodes,Lumps under jaw, armpit, groin,Treating infection.
+Night Sweats,Excessive sweating at night,Cool environment, medical eval.
+Hot Flashes,Sudden feeling of heat,Cooling measures, hormone therapy (if menopause).
+Chills,Feeling cold/shivering,Warmth, treating fever.
+Pale Skin,Lighter than normal skin color,Checking for anemia.
+Jaundice,Yellow skin/eyes,Liver evaluation.
+Cyanosis,Blue tint to skin/lips,Emergency medical attention (oxygen).
+Edema,Swelling caused by fluid retention,Reducing salt, elevation, diuretics.
+Bloating,Fullness/swelling in abdomen,Dietary changes.
+Gas,Excessive flatulence/belching,Dietary changes.
+Heart Palpitations,Awareness of heartbeat,Relaxation, medical eval.
+Rapid Heartbeat,Fast pulse,Vagal maneuvers, medication.
+Slow Heartbeat,Slow pulse,Pacemaker (if needed).
+Irregular Heartbeat,Skipped beats,Medication, ablation.
+Chest Tightness,Pressure in chest,Medical eval (rule out heart/lung issues).
+Shortness of Breath,Difficulty breathing,Medical eval.
+Wheezing,Whistling sound when breathing,Inhaler.
+Coughing up Blood,Haemoptysis,Emergency medical eval.
+Nausea,Urge to vomit,Anti-nausea meds, ginger.
+Vomiting Blood,Hematemesis,Emergency medical attention.
+Blood in Stool,Red or black stools,Medical eval.
+Blood in Urine,Pink/red urine,Medical eval.
+Painful Urination,Burning when peeing,Antibiotics (for UTI).
+Frequent Urination,Peeing often,Medical eval (diabetes, UTI, prostate).
+Incontinence,Loss of bladder control,Pelvic floor exercises, surgery.
+Impotence,Erectile dysfunction,Medications, lifestyle changes.
+Low Libido,Reduced sex drive,Counseling, hormone therapy.
+Infertility,Inability to conceive,Fertility treatments.
+Menstrual Cramps,Pain during period,NSAIDs, heat.
+Heavy Periods,Excessive bleeding,Hormonal birth control, surgery.
+Irregular Periods,Unpredictable cycles,Hormonal regulation.
+Menopause Symptoms,Hot flashes, mood changes,Hormone therapy, lifestyle changes.
+PMS,Mood swings, bloating before period,Lifestyle changes, medication.
+Morning Sickness,Nausea during pregnancy,Small meals, ginger.
+Labor Pains,Contractions,Pain management.
+Breast Pain,Pain in breast,Supportive bra, medical eval.
+Breast Lump,Mass in breast,Medical eval (mammogram/biopsy).
+Nipple Discharge,Fluid from nipple,Medical eval.
+Pelvic Pain,Pain in lower abdomen,Medical eval.
+Vaginal Discharge,Abnormal fluid,Treating infection.
+Vaginal Itching,Itchiness,Treating infection.
+Penile Discharge,Fluid from penis,Treating infection (STI check).
+Testicular Pain,Pain in testicle,Medical eval.
+Testicular Lump,Mass in testicle,Medical eval.
+Prostate Problems,Difficulty urinating,Medication, surgery.
+Sexually Transmitted Infections (STIs),Various symptoms,Antibiotics/antivirals, safe sex.
+HIV/AIDS,Flu-like symptoms (early), immune suppression,Antiretroviral therapy (ART).
+Syphilis,Sore, rash, organ damage,Antibiotics (Penicillin).
+Gonorrhea,Discharge, painful urination,Antibiotics.
+Chlamydia,Discharge, painful urination,Antibiotics.
+Herpes,Painful blisters,Antivirals.
+HPV,Warts, cancer risk,Vaccine, removal of warts.
+Pubic Lice,Itching, visible lice,Topical insecticides.
+Scabies,Intense itching, rash,Topical prescription cream.
+Bed Bugs,Bites in lines, extermination.
+Lice,Itchy scalp, nits,Lice shampoo/combing.
+Ticks,Bite, risk of Lyme disease,Removal, antibiotics (if needed).
+Mosquito Bites,Itchy bumps,Anti-itch cream.
+Spider Bites,Pain, swelling, necrosis (some),Medical attention (if poisonous).
+Bee Stings,Pain, swelling,Remove stinger, ice.
+Allergies,Sneezing, itchy eyes,Antihistamines, avoidance.
+Hay Fever,Seasonal allergies,Antihistamines, nasal sprays.
+Dust Mite Allergy,Sneezing, runny nose,Dust-proof covers, cleaning.
+Pet Allergy,Sneezing, runny nose,Avoidance, meds.
+Food Allergy,Hives, swelling, anaphylaxis,Avoidance, EpiPen.
+Latex Allergy,Rash, anaphylaxis,Avoidance.
+Drug Allergy,Rash, swelling, anaphylaxis,Avoidance, alternative meds.
+Mold Allergy,Respiratory symptoms,Mold remediation.
+Sinusitis,Facial pain, congestion,Decongestants, saline rinse, antibiotics (if bacterial).
+Tonsillitis,Sore throat, swollen tonsils,Antibiotics (if bacterial), surgery.
+Laryngitis,Hoarseness, loss of voice,Voice rest, fluids.
+Bronchitis,Cough, mucus production,Rest, fluids, bronchodilators.
+Emphysema,Shortness of breath,Stop smoking, oxygen, inhalers.
+COPD,Chronic cough, shortness of breath,Stop smoking, inhalers, oxygen.
+Lung Cancer,Cough, weight loss, blood,Surgery, chemo, radiation.
+Breast Cancer,Lump, changes in breast,Surgery, chemo, radiation.
+Prostate Cancer,Urinary issues,Surgery, radiation, monitoring.
+Colon Cancer,Change in bowel habits, blood,Surgery, chemo.
+Skin Cancer,Changing mole/lesion,Removal, radiation, chemo.
+Leukemia,Fatigue, easy bruising, infections,Chemo, stem cell transplant.
+Lymphoma,Swollen lymph nodes,Chemo, radiation.
+Brain Tumor,Headaches, seizures,Surgery, radiation, chemo.
+Bone Cancer,Bone pain,Surgery, chemo, radiation.
+Liver Cancer,Jaundice, weight loss,Surgery, transplant, chemo.
+Pancreatic Cancer,Jaundice, pain,Surgery, chemo.
+Stomach Cancer,Indigestion, weight loss,Surgery, chemo.
+Esophageal Cancer,Difficulty swallowing,Surgery, chemo, radiation.
+Thyroid Cancer,Lump in neck,Surgery, radioactive iodine.
+Ovarian Cancer,Bloating, pelvic pain,Surgery, chemo.
+Cervical Cancer,Bleeding, discharge,Surgery, radiation, chemo.
+Uterine Cancer,Bleeding,Surgery, radiation.
+Bladder Cancer,Blood in urine,Surgery, chemo, immunotherapy.
+Kidney Cancer,Blood in urine, side pain,Surgery, immunotherapy.
+Testicular Cancer,Lump,Surgery, chemo.
+Melanoma,Changing mole,Surgery, immunotherapy.
+Basal Cell Carcinoma,Skin lesion,Removal.
+Squamous Cell Carcinoma,Skin lesion,Removal.
+High Blood Pressure,Hypertension,Meds, diet, exercise.
+High Cholesterol,Hyperlipidemia,Statins, diet.
+Diabetes Type 1,Thirst, weight loss,Insulin.
+Hypothyroidism,Fatigue, weight gain,Levothyroxine.
+Hyperthyroidism,Anxiety, weight loss,Anti-thyroid meds.
+Adrenal Insufficiency,Fatigue, weakness,Hormone replacement.
+Cushing's Syndrome,Weight gain, round face,Surgery, meds.
+PCOS,Irregular periods, acne,Hormonal birth control, metformin.
+Endometriosis,Painful periods,Hormonal birth control, surgery.
+Fibroids,Heavy bleeding, pain,Meds, surgery.
+Ovarian Cysts,Pain, bloating,Observation, surgery.
+Ectopic Pregnancy,Pain, bleeding,Emergency surgery/meds.
+Miscarriage,Bleeding, pain,Supportive care.
+Pre-eclampsia,High BP in pregnancy,Delivery, monitoring.
+Gestational Diabetes,High sugar in pregnancy,Diet, insulin.
+Postpartum Depression,Sadness after birth,Therapy, meds.
+Autism,Social/comm challenges,Therapies.
+ADHD,Inattention, hyperactivity,Meds, therapy.
+Dyslexia,Reading difficulty,Specialized education.
+Dyspraxia,Coordination issues,OT, PT.
+Tourette's,Tics,Meds, therapy.
+Schizophrenia,Hallucinations, delusions,Antipsychotics, therapy.
+Bipolar Disorder,Mood cycles,Mood stabilizers, therapy.
+OCD,Obsessions, compulsions,SSRI, therapy.
+PTSD,Trauma flashbacks,Therapy, meds.
+Eating Disorders,Anorexia, bulimia,Therapy, nutrition rehab.
+Substance Abuse,Addiction,Rehab, counseling.
+Alcoholism,Dependency on alcohol,Rehab, support groups.
+Smoking,Tobacco addiction,Nicotine replacement, support.
+Obesity,Excess weight,Diet, exercise.
+Malnutrition,Nutrient deficiency,Supplements, diet.
+Vitamin Deficiency,Scurvy, rickets, etc.,Supplements.
+Dehydration,Lack of water,Fluids.
+Starvation,Lack of food,Refeeding.
+Food Intolerance,Digestive issues,Avoidance.
+Food Allergy,Immune reaction,Avoidance.
+Celiac Disease,Gluten reaction,Gluten-free diet.
+Lactose Intolerance,Dairy reaction,Lactose-free diet.
+Irritable Bowel Syndrome (IBS),Cramps, diarrhea/constipation,Diet, meds.
+Crohn's Disease,IBD inflammation,Anti-inflammatories, surgery.
+Ulcerative Colitis,Colon inflammation,Meds, surgery.
+Diverticulitis,Infected pouches in colon,Antibiotics, diet.
+Gallstones,Pain, nausea,Surgery (cholecystectomy).
+Appendicitis,RLQ pain,Surgery.
+Pancreatitis,Severe abdominal pain,Fluids, pain control.
+Liver Cirrhosis,Liver scarring,Supportive care, transplant.
+Liver Failure,Loss of liver function,Transplant.
+Kidney Failure,Loss of kidney function,Dialysis, transplant.
+Heart Failure,Fluid buildup, breathlessness,Meds, lifestyle.
+Arrhythmia,Irregular heart rhythm,Meds, pacemakers.
+Valve Disease,Murmurs, heart strain,Surgery/repair.
+Aneurysm,Bulging vessel,Surgery, monitoring.
+Varicose Veins,Swollen leg veins,Compression, procedures.
+Deep Vein Thrombosis (DVT),Leg clot,Blood thinners.
+Pulmonary Embolism,Lung clot,Blood thinners, emergency care.
+Sepsis,Body-wide infection response,Antibiotics, fluids, ICU.
+Meningitis,Brian/spine inflammation,Antibiotics/antivirals.
+Encephalitis,Brain inflammation,Antivirals/supportive.
+Lyme Disease,Tick-borne, rash,Antibiotics.
+Mononucleosis,Viral fatigue,Rest, fluids.
+Chronic Fatigue Syndrome,Extreme tiredness,Symptom management.
+Fibromyalgia,Widespread pain,Meds, lifestyle.
+Lupus,Autoimmune rash, pain,Anti-inflammatories, immunosuppressants.
+Rheumatoid Arthritis,Joint inflammation,DMARDs, biologics.
+Scleroderma,Hard skin,Meds for symptoms.
+Sjogren's Syndrome,Dry eyes/mouth,Meds, drops.
+Vasculitis,Vessel inflammation,Steroids.
+Multiple Sclerosis,Nerve damage,DMTs, steroids.
+ALS,Muscle wasting,Supportive care.
+Huntington's Disease,Genetic neurodegeneration,Symptom management.
+Muscular Dystrophy,Muscle weakness,Supportive care.
+Cerebral Palsy,Motor disability,Therapies.
+Down Syndrome,Genetic condition,Supportive therapies.
+Cystic Fibrosis,Lung/gut mucus,Airway clearance, meds.
+Sickle Cell Anemia,Blood disorder,Pain management, fluids.
+Hemophilia,Clotting disorder,Clotting factors.
+Thalassemia,Blood disorder,Transfusions.
+Tay-Sachs,Genetic nerve destruction,Supportive care.
+Spina Bifida,Spine defect,Surgery, supportive care.
+Chickenpox,Viral rash,Vaccine, supportive.
+Measles,Viral rash/fever,Vaccine, supportive.
+Mumps,Swollen glands,Vaccine, supportive.
+Rubella,German measles,Vaccine, supportive.
+Fifth Disease,Slapped cheek rash,Supportive.
+Roseola,High fever, rash,Supportive.
+Hand, Foot, and Mouth,Blisters,Supportive.
+Whooping Cough,Pertussis,Vaccine, antibiotics.
+Scarlet Fever,Strep throat + rash,Antibiotics.
+Impetigo,Skin infection, crusts,Antibiotics.
+Ringworm,Fungal rash,Antifungals.
+Scabies,Mite infestation,Permethrin cream.
+Lice,Head lice,Shampoo.
+Pinworms,Itchy anus,Meds.
+Ear Infection,Otitis media,Antibiotics (sometimes), pain relief.
+Pink Eye,Conjunctivitis,Drops (if bacterial), hygiene.
+Croup,Barking cough,Cool air, steroids.
+Colic,Crying in babies,Comfort measures.
+Teething,Tooth eruption pain,Teething rings, analgesics.
+Diaper Rash,Red bottom,Creams, air time.
+Cradle Cap,Scaly scalp,Gentle washing, oil.
+Jaundice (Newborn),Yellow skin,Phototherapy, feeding.
+SIDS,Sudden infant death,Safe sleep practices.
+Acne,Pimples,Skin care, meds.
+Puberty,Growth/changes,Education, support.
+Menstruation,Periods,Hygiene products, pain relief.
+Pregnancy,Gestation,Prenatal care.
+Childbirth,Labor/delivery,Medical support.
+Breastfeeding,Nursing,Support, lactation consulting.
+Menopause,End of periods,Symptom management.
+Aging,Getting older,Healthy lifestyle, medical care.
+Death,End of life,Palliative care, hospice.
+Grief,Loss,Counseling, support.
+Trauma,Injury/shock,First aid, medical care.
+Stress,Tension,Relaxation, therapy:
+Burnout,Exhaustion,Rest, lifestyle changes.
+Depression,Low mood,Therapy, meds.
+Anxiety,Fear/worry,Therapy, meds.
+Phobias,Specific fears,Exposure therapy.
+Panic Disorder,Panic attacks,Therapy, meds.
+OCD,Obsessions/compulsions,Therapy, meds.
+PTSD,Trauma reaction,Therapy, meds.
+Bipolar,Mood swings,Meds, therapy.
+Schizophrenia,Psychosis,Meds, therapy.
+Personality Disorders,Behavior patterns,Therapy.
+Eating Disorders,Food issues,Therapy, medical nutritional therapy.
+Sleep Disorders,Sleep issues,Sleep hygiene, meds.
+Sexual Dysfunction,Sex issues,Therapy, meds.
+Addiction,Substance use,Rehab, support.
+Gambling Addiction,Betting,Therapy, support.
+Gaming Addiction,Video games,Therapy, limits.
+Social Media Addiction,Phone use,Digital detox, limits.
+Workaholism,Overworking,Boundaries, balance.
+Shopaholism,Overspending,Budgeting, therapy.
+Hoarding,Accumulating stuff,Therapy, cleanup.
+Kleptomania,Stealing,Therapy.
+Pyromania,Fire setting,Therapy.
+Trichotillomania,Hair pulling,Therapy.
+Excoiation,Skin picking,Therapy.
+Body Dysmorphia,Image obsession,Therapy.
+Hypochondria,Health anxiety,Therapy.
+Munchausen Syndrome,Faking illness,Therapy.
+Munchausen by Proxy,Faking illness in other,Legal/medical intervention.
+Suicide,Self-harm,Emergency help, therapy.
+Self-Harm,Cutting/burning,Therapy, support.
+Bullying,Harassment,Intervention, support.
+Abuse,Physical/emotional harm,Safety, legal help.
+Neglect,Lack of care,CPS, support.
+Poverty,Lack of resources,Social services.
+Homelessness,No housing,Shelters, assistance.
+Unemployment,No job,Job search, benefits.
+Divorce,Marriage end,Legal/emotional support.
+Bereavement,Loss of loved one,Support groups.
+Loneliness,Isolation,Social connection.
+Boredom,Lack of interest,Activity, engagement.
+Apathy,Lack of feeling,Therapy.
+Anger,Rage,Anger management.
+Jealousy,Envy,Therapy, communication.
+Guilt,Remorse,Forgiveness, therapy.
+Shame,Embarrassment,Therapy, self-compassion.
+Fear,Scared,Facing fears.
+Joy,Happiness,Celebrate.
+Love,Affection,Nurture relationships.
+Hope,Optimism,Goal setting.
+Peace,Calm,Meditation.
+Faith,Belief,Spiritual practice.
+Purpose,Meaning,Finding direction.
+Creativity,Expression,Art, writing, etc.
+Learning,Education,Reading, classes.
+Growth,Development,Challenges.
+Success,Achievement,Celebration.
+Failure,Mistakes,Learning opportunity.
+Resilience,Bouncing back,Coping skills.
+Wisdom,Insight,Reflection.
+Compassion,Kindness,Helping others.
+Generosity,Giving,Volunteering.
+Gratitude,Thankfulness,Journaling.
+Humility,Modesty,Self-awareness.
+Integrity,Honesty,Ethical living.
+Justice,Fairness,Advocacy.
+Freedom,Liberty,Responsibility.
+Equality,Rights,Inclusion.
+Diversity,Variety,Acceptance.
+Unity,Togetherness,Collaboration.
+Peace,Non-violence,Conflict resolution.
+Sustainability,Green living,Conservation.
+Health,Well-being,Diet, exercise, sleep.
+Wealth,Abundance,Financial planning.
+Happiness,Satisfaction,Gratitude.
+Tranquility,Serenity,Relaxation.
+Ecstasy,Bliss,Peak experiences.
+Nirvana,Enlightenment,Spiritual goal.
+Heaven,Afterlife,Religious belief.
+Hell,Suffering,Religious belief.
+Purgatory,Intermediate state,Religious belief.
+Reincarnation,Rebirth,Religious belief.
+Karma,Cause and effect,Moral law.
+Fate,Destiny,Determination.
+Free Will,Choice,Agency.
+Consciousness,Awareness,Mindfulness.
+Soul,Spirit,Inner essence.
+God,Deity,Faith.
+Universe,Cosmos,Awe.
+Nature,Environment,Connection.
+Life,Existence,Appreciation.
+Death,Mortality,Acceptance.
+Time,Passage,Management.
+Space,void,Exploration.
+Matter,Substance,Science.
+Energy,Power,Physics.
+Force,Strength,Physics.
+Gravity,Attraction,Physics.
+Electromagnetism,Field,Physics.
+Strong Nuclear Force,Binding,Physics.
+Weak Nuclear Force,Decay,Physics.
+Quantum Mechanics,Subatomic,Science.
+Relativity,Space-time,Science.
+Evolution,Change,Biology.
+Genetics,DNA,Biology.
+Neuroscience,Brain,Biology.
+Psychology,Mind,Science.
+Sociology,Society,Science.
+Anthropology,Humans,Science.
+Archaeology,History,Science.
+History,Past,Study.
+Geography,Place,Study.
+Economics,Resources,Study.
+Politics,Power,Study.
+Law,Rules,System.
+Ethics,Morality,Philosophy.
+Philosophy,Thought,Study.
+Religion,Belief,Practice.
+Art,Expression,Creation.
+Music,Sound,Creation.
+Literature,Writing,Creation.
+Film,Cinema,Creation.
+Theater,Performance,Creation.
+Dance,Movement,Creation.
+Sports,Athletics,Activity.
+Games,Play,Activity.
+Travel,Exploration,Activity.
+Food,Culinary,Culture.
+Fashion,Style,Culture.
+Technology,Innovation,Tool.
+Science,Knowledge,Method.
+Math,Logic,Language.
+Language,Communication,System.
+Writing,Expression,Skill.
+Reading,Comprehension,Skill.
+Speaking,Oratory,Skill.
+Listening,Understanding,Skill.
+Thinking,Cognition,Process.
+Feeling,Emotion,Experience.
+Sensing,Perception,Experience.
+Intuiting,Gut feeling,Experience.
+Judging,Evaluation,Process.
+Perceiving,Observation,Process.
+Introversion,Inward focus,Personality.
+Extroversion,Outward focus,Personality.
+Thinking,Logic,Personality.
+Feeling,Values,Personality.
+Sensing,Details,Personality.
+Intuition,Big picture,Personality.
+Judging,Structure,Personality.
+Perceiving,Flexibility,Personality.
+Type A,Competitive,Personality.
+Type B,Relaxed,Personality.
+Optimist,Positive,Outlook.
+Pessimist,Negative,Outlook.
+Realist,Practical,Outlook.
+Idealist,Visionary,Outlook.
+Cynic,Distrustful,Outlook.
+Skeptic,Questioning,Outlook.
+Believer,Faithful,Outlook.
+Atheist,Non-believer,Outlook.
+Agnostic,Unsure,Outlook.
+Humanist,People-focused,Outlook.
+Environmentalist,Nature-focused,Outlook.
+Feminist,Equality-focused,Outlook.
+Activist,Change-focused,Outlook.
+Conservative,Tradition-focused,Outlook.
+Liberal,Progress-focused,Outlook.
+Libertarian,Freedom-focused,Outlook.
+Socialist,Community-focused,Outlook.
+Communist,Equality-focused,Outlook.
+Anarchist,Anti-authority,Outlook.
+Pacifist,Peace-focused,Outlook.
+Militarist,Force-focused,Outlook.
+Nationalist,Nation-focused,Outlook.
+Globalist,World-focused,Outlook.
+Individualist,Self-focused,Outlook.
+Collectivist,Group-focused,Outlook.
+Traditionalist,History-focused,Outlook.
+Modernist,New-focused,Outlook.
+Postmodernist,Critical,Outlook.
+Futurist,Tomorrow-focused,Outlook.
+Minimalist,Simplicity,Lifestyle.
+Maximalist,More is more,Lifestyle.
+Nomad,Traveler,Lifestyle.
+Settler,Rooted,Lifestyle.
+Urban,City,Lifestyle.
+Rural,Country,Lifestyle.
+Suburban,Neighborhood,Lifestyle.
+Single,Unpartnered,Status.
+Married,Partnered,Status.
+Divorced,Separated,Status.
+Widowed,Bereaved,Status.
+Parent,Child-rearing,Role.
+Child,Offspring,Role.
+Sibling,Brother/Sister,Role.
+Grandparent,Elder,Role.
+Friend,Companion,Role.
+Enemy,Adversary,Role.
+Colleague,Coworker,Role.
+Boss,Leader,Role.
+Employee,Worker,Role.
+Student,Learner,Role.
+Teacher,Educator,Role.
+Mentor,Guide,Role.
+Leader,Guide,Role.
+Follower,Supporter,Role.
+Hero,Savior,Archetype.
+Villain,Antagonist,Archetype.
+Victim,Sufferer,Archetype.
+Survivor,Overcomer,Archetype.
+Warrior,Fighter,Archetype.
+Healer,Curer,Archetype.
+Sage,Wise one,Archetype.
+Fool,Jester,Archetype.
+Lover,Partner,Archetype.
+Magician,Transformer,Archetype.
+Ruler,Leader,Archetype.
+Creator,Maker,Archetype.
+Destroyer,Ender,Archetype.
+Seeker,Explorer,Archetype.
+Caregiver,Nurturer,Archetype.
+Orphan,Belonger,Archetype.
+Innocent,Pure,Archetype.
+Explorer,Seeker,Archetype.
+Rebel,Outlaw,Archetype.
+Citizen,Member,Archetype.
+Jester,Entertainer,Archetype.
+Everyman,Regular person,Archetype.
