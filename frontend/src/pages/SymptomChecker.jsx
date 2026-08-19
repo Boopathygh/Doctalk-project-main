@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { motion } from 'framer-motion';
-import { checkSymptoms, getProfile } from '../services/api';
+import { checkSymptoms } from '../services/api';
 import { User, Activity, AlertCircle, CheckCircle, ArrowRight, ArrowLeft } from 'lucide-react';
 
 const SymptomChecker = () => {
@@ -21,29 +21,9 @@ const SymptomChecker = () => {
     const handleNext = () => setStep(step + 1);
     const handleBack = () => setStep(step - 1);
 
-    const handleMyself = async () => {
-        setLoading(true);
-        try {
-            const res = await getProfile();
-            if (res.data.profile) {
-                const p = res.data.profile;
-                setFormData({
-                    ...formData,
-                    forWhom: 'myself',
-                    age: p.age || '',
-                    weight: p.weight || '',
-                    gender: p.gender || '',
-                });
-            }
-            handleNext();
-        } catch (err) {
-            console.error("Error fetching profile", err);
-            // Proceed anyway even if fetch fails
-            setFormData({ ...formData, forWhom: 'myself' });
-            handleNext();
-        } finally {
-            setLoading(false);
-        }
+    const handleMyself = () => {
+        setFormData({ ...formData, forWhom: 'myself' });
+        handleNext();
     };
 
     const handleSubmit = async () => {
